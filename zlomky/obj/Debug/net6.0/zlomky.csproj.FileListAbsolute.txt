@@ -1,0 +1,15 @@
+C:\Users\4afko\csharp\zlomky\bin\Debug\net6.0\zlomky.exe
+C:\Users\4afko\csharp\zlomky\bin\Debug\net6.0\zlomky.deps.json
+C:\Users\4afko\csharp\zlomky\bin\Debug\net6.0\zlomky.runtimeconfig.json
+C:\Users\4afko\csharp\zlomky\bin\Debug\net6.0\zlomky.dll
+C:\Users\4afko\csharp\zlomky\bin\Debug\net6.0\zlomky.pdb
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\zlomky.csproj.AssemblyReference.cache
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\zlomky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\zlomky.AssemblyInfoInputs.cache
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\zlomky.AssemblyInfo.cs
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\zlomky.csproj.CoreCompileInputs.cache
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\zlomky.dll
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\refint\zlomky.dll
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\zlomky.pdb
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\zlomky.genruntimeconfig.cache
+C:\Users\4afko\csharp\zlomky\obj\Debug\net6.0\ref\zlomky.dll
